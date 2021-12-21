@@ -7,3 +7,4 @@ unite_price = 26.99
 extended_price = quantity * unite_price * 0.95
 # Show the results
 print(extended_price)
+print("price = ", extended_price)
